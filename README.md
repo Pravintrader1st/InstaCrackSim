@@ -29,7 +29,7 @@ pkg update && pkg upgrade -y
 pkg install python git -y
 
 # Step 3: Clone the repository
-git clone https://github.com/YOUR_USERNAME/instacrackersim.git
+git clone https://github.com/Pravintrader1st/instacrackersim.git
 
 # Step 4: Move into the directory
 cd instacrackersim
